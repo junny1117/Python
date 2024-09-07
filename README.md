@@ -15,4 +15,10 @@ Python-Practice_Course-Apply
 ### 3. `main.py`
 메인 스크립트로, `class_list.py`, `student_list.py`와 연계 학생 강좌 등록/삭제, 수강 가능한 강좌 및 학생 목록 조회
 
+## 실행 결과
+![스크린샷 2024-09-07 220207](https://github.com/user-attachments/assets/83d727a8-44e3-421d-9199-4421dec56033)
+![스크린샷 2024-09-07 215947](https://github.com/user-attachments/assets/dd8cd2fd-afab-48e3-a2f5-987467bac9a3)
+
+
+
 
