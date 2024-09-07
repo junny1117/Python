@@ -1,8 +1,18 @@
-# Course Apply
+Python-Practice_Course-Apply
 
-Language: Python<br>
-class_list.py -> Determine the number of student can register for a specific course and return the success or failure of the course application according to the number of registered students.<br>
-student_list.py -> Save list of subjects the student has registered.<br>
-main.py -> main code which student & admin can login and register for courses or manage the courses.
+## 개요
+
+파이썬 활용 수강신청 프로그램
+
+## 파일 설명
+
+### 1. `class_list.py`
+학생들이 신청할 수 있는 강좌 목록 관리(강좌 추가/삭제, 목록 조회)
+
+### 2. `student_list.py`
+학생 데이터 처리하고 관리(학생 추가/삭제/검색, 목록 조회)
+
+### 3. `main.py`
+메인 스크립트로, `class_list.py`, `student_list.py`와 연계
 
 
