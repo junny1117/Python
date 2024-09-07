@@ -13,6 +13,6 @@ Python-Practice_Course-Apply
 학생 데이터 처리하고 관리(학생 추가/삭제/검색, 목록 조회)
 
 ### 3. `main.py`
-메인 스크립트로, `class_list.py`, `student_list.py`와 연계
+메인 스크립트로, `class_list.py`, `student_list.py`와 연계 학생 강좌 등록/삭제, 수강 가능한 강좌 및 학생 목록 조회
 
 
